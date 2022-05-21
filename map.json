@@ -60,7 +60,7 @@
         },
         {
           "sucursal": "Tiloarque",
-          "distancia": 3.0
+          "distancia": 3.1
         }
       ]
     },
@@ -81,7 +81,7 @@
         },
         {
           "sucursal": "Col. San Jose del Pedregal",
-          "distancia": 2.3
+          "distancia": 1.8
         },
         {
           "sucursal": "Col. 15 de Septiembre",
@@ -98,7 +98,7 @@
         },
         {
           "sucursal": "Col. San Jose del Pedregal",
-          "distancia": 1.8
+          "distancia": 2.4
         }
       ]
     },
@@ -170,7 +170,7 @@
         },
         {
           "sucursal": "Kennedy",
-          "distancia": 3.0
+          "distancia": 3.1
         }
       ]
     },
@@ -323,23 +323,6 @@
         {
           "sucursal": "San Felipe",
           "distancia": 2.1
-        }
-      ]
-    },
-    {
-      "sucursal": "Aleman",
-      "ejes": [
-        {
-          "sucursal": "Col. San Jose del Pedregal",
-          "distancia": 2.3
-        },
-        {
-          "sucursal": "Miraflores",
-          "distancia": 4.0
-        },
-        {
-          "sucursal": "Kennedy",
-          "distancia": 3.0
         }
       ]
     },
