@@ -1,0 +1,443 @@
+{ "mapa":
+  [
+    {
+      "sucursal": "Cerro Grande",
+      "ejes": [
+        {
+          "sucursal": "La Laguna",
+          "distancia": 3.1
+        },
+        {
+          "sucursal": "El Centro",
+          "distancia": 4.0
+        }
+      ]
+    },
+    {
+      "sucursal": "La Laguna",
+      "ejes": [
+        {
+          "sucursal": "El Carrizal",
+          "distancia": 1.2
+        },
+        {
+          "sucursal": "Santa Fe",
+          "distancia": 1.4
+        },
+        {
+          "sucursal": "Cerro Grande",
+          "distancia": 3.1
+        }
+      ]
+    },
+    {
+      "sucursal": "El Carrizal",
+      "ejes": [
+        {
+          "sucursal": "Centro America",
+          "distancia": 1.8
+        },
+        {
+          "sucursal": "La Laguna",
+          "distancia": 1.2
+        }
+      ]
+    },
+    {
+      "sucursal": "Centro America",
+      "ejes": [
+        {
+          "sucursal": "El Carrizal",
+          "distancia": 1.8
+        },
+        {
+          "sucursal": "Santa Fe",
+          "distancia": 3.2
+        },
+        {
+          "sucursal": "Concepcion",
+          "distancia": 4.0
+        },
+        {
+          "sucursal": "Tiloarque",
+          "distancia": 3.0
+        }
+      ]
+    },
+    {
+      "sucursal": "Tiloarque",
+      "ejes": [
+        {
+          "sucursal": "Centro America",
+          "distancia": 3.1
+        },
+        {
+          "sucursal": "El Prado",
+          "distancia": 2.2
+        },
+        {
+          "sucursal": "Miraflores",
+          "distancia": 3.4
+        },
+        {
+          "sucursal": "Col. San Jose del Pedregal",
+          "distancia": 2.3
+        },
+        {
+          "sucursal": "Col. 15 de Septiembre",
+          "distancia": 3.0
+        }
+      ]
+    },
+    {
+      "sucursal": "Col. 15 de Septiembre",
+      "ejes": [
+        {
+          "sucursal": "Tiloarque",
+          "distancia": 3.0
+        },
+        {
+          "sucursal": "Col. San Jose del Pedregal",
+          "distancia": 1.8
+        }
+      ]
+    },
+    {
+      "sucursal": "Col San Jose del Pedregal",
+      "ejes": [
+        {
+          "sucursal": "Col 15 de Septiembre",
+          "distancia": 2.4
+        },
+        {
+          "sucursal": "Tiloarque",
+          "distancia": 1.8
+        },
+        {
+          "sucursal": "Miraflores",
+          "distancia": 4.0
+        },
+        {
+          "sucursal": "Aleman",
+          "distancia": 2.3
+        }
+      ]
+    },
+    {
+      "sucursal": "Aleman",
+      "ejes": [
+        {
+          "sucursal": "Col. San Jose del Pedregal",
+          "distancia": 2.3
+        },
+        {
+          "sucursal": "Miraflores",
+          "distancia": 4.0
+        },
+        {
+          "sucursal": "Kennedy",
+          "distancia": 3.0
+        }
+      ]
+    },
+    {
+      "sucursal": "Kennedy",
+      "ejes": [
+        {
+          "sucursal": "El Hato",
+          "distancia": 3.1
+        },
+        {
+          "sucursal": "Miraflores",
+          "distancia": 2.0
+        },
+        {
+          "sucursal": "Aleman",
+          "distancia": 3.0
+        }
+      ]
+    },
+    {
+      "sucursal": "El Hato",
+      "ejes": [
+        {
+          "sucursal": "Florencia Sur",
+          "distancia": 1.8
+        },
+        {
+          "sucursal": "Miraflores",
+          "distancia": 3.5
+        },
+        {
+          "sucursal": "Kennedy",
+          "distancia": 3.0
+        }
+      ]
+    },
+    {
+      "sucursal": "Florencia Sur",
+      "ejes": [
+        {
+          "sucursal": "El Hato",
+          "distancia": 1.8
+        },
+        {
+          "sucursal": "Miramontes",
+          "distancia": 3.0
+        },
+        {
+          "sucursal": "Lomas del Guijarro",
+          "distancia": 3.5
+        },
+        {
+          "sucursal": "San Miguel",
+          "distancia": 4.0
+        }
+      ]
+    },
+    {
+      "sucursal": "San Miguel",
+      "ejes": [
+        {
+          "sucursal": "Florencia Sur",
+          "distancia": 4.0
+        },
+        {
+          "sucursal": "21 de Octubre",
+          "distancia": 2.0
+        }
+      ]
+    },
+    {
+      "sucursal": "21 de Octubre",
+      "ejes": [
+        {
+          "sucursal": "San Miguel",
+          "distancia": 2.0
+        },
+        {
+          "sucursal": "San Felipe",
+          "distancia": 1.6
+        }
+      ]
+    },
+    {
+      "sucursal": "San Felipe",
+      "ejes": [
+        {
+          "sucursal": "21 de Octubre",
+          "distancia": 1.6
+        },
+        {
+          "sucursal": "Lomas del Guijarro",
+          "distancia": 1.5
+        },
+        {
+          "sucursal": "Morazan",
+          "distancia": 2.1
+        },
+        {
+          "sucursal": "El Centro",
+          "distancia": 2.7
+        }
+      ]
+    },
+    {
+      "sucursal": "El Centro",
+      "ejes": [
+        {
+          "sucursal": "San Felipe",
+          "distancia": 2.7
+        },
+        {
+          "sucursal": "Morazan",
+          "distancia": 2.3
+        },
+        {
+          "sucursal": "Concepcion",
+          "distancia": 2.1
+        },
+        {
+          "sucursal": "Cerro Grande",
+          "distancia": 4.0
+        }
+      ]
+    },
+    {
+      "sucursal": "Santa Fe",
+      "ejes": [
+        {
+          "sucursal": "La Laguna",
+          "distancia": 1.4
+        },
+        {
+          "sucursal": "Concepcion",
+          "distancia": 2.2
+        },
+        {
+          "sucursal": "Centro America",
+          "distancia": 3.2
+        }
+      ]
+    },
+    {
+      "sucursal": "Concepcion",
+      "ejes": [
+        {
+          "sucursal": "El Centro",
+          "distancia": 2.1
+        },
+        {
+          "sucursal": "Santa Fe",
+          "distancia": 2.2
+        },
+        {
+          "sucursal": "Centro America",
+          "distancia": 4.0
+        },
+        {
+          "sucursal": "El Prado",
+          "distancia": 1.3
+        },
+        {
+          "sucursal": "Morazan",
+          "distancia": 2.3
+        }
+      ]
+    },
+    {
+      "sucursal": "Morazan",
+      "ejes": [
+        {
+          "sucursal": "El Centro",
+          "distancia": 2.3
+        },
+        {
+          "sucursal": "Miramontes",
+          "distancia": 2.0
+        },
+        {
+          "sucursal": "Concepcion",
+          "distancia": 2.3
+        },
+        {
+          "sucursal": "San Felipe",
+          "distancia": 2.1
+        }
+      ]
+    },
+    {
+      "sucursal": "Aleman",
+      "ejes": [
+        {
+          "sucursal": "Col. San Jose del Pedregal",
+          "distancia": 2.3
+        },
+        {
+          "sucursal": "Miraflores",
+          "distancia": 4.0
+        },
+        {
+          "sucursal": "Kennedy",
+          "distancia": 3.0
+        }
+      ]
+    },
+    {
+      "sucursal": "El Prado",
+      "ejes": [
+        {
+          "sucursal": "Concepcion",
+          "distancia": 1.3
+        },
+        {
+          "sucursal": "Tiloarque",
+          "distancia": 2.2
+        },
+        {
+          "sucursal": "Miraflores",
+          "distancia": 2.7
+        },
+        {
+          "sucursal": "Miramontes",
+          "distancia": 0.75
+        }
+      ]
+    },
+    {
+      "sucursal": "Miramontes",
+      "ejes": [
+        {
+          "sucursal": "Morazan",
+          "distancia": 2.0
+        },
+        {
+          "sucursal": "Miraflores",
+          "distancia": 3.5
+        },
+        {
+          "sucursal": "El Prado",
+          "distancia": 0.75
+        },
+        {
+          "sucursal": "Lomas del Guijarro",
+          "distancia": 2.3
+        },
+        {
+          "sucursal": "Florencia Sur",
+          "distancia": 3.0
+        }
+      ]
+    },
+    {
+      "sucursal": "Lomas del Guijarro",
+      "ejes": [
+        {
+          "sucursal": "San Felipe",
+          "distancia": 1.5
+        },
+        {
+          "sucursal": "Miramontes",
+          "distancia": 2.3
+        },
+        {
+          "sucursal": "Florencia Sur",
+          "distancia": 3.5
+        }
+      ]
+    },
+    {
+      "sucursal": "Miraflores",
+      "ejes": [
+        {
+          "sucursal": "Col. San Jose del Pedregal",
+          "distancia": 4.0
+        },
+        {
+          "sucursal": "Miramontes",
+          "distancia": 3.5
+        },
+        {
+          "sucursal": "El Prado",
+          "distancia": 2.7
+        },
+        {
+          "sucursal": "Tiloarque",
+          "distancia": 3.4
+        },
+        {
+          "sucursal": "Aleman",
+          "distancia": 4.0
+        },
+        {
+          "sucursal": "Kennedy",
+          "distancia": 2.0
+        },
+        {
+          "sucursal": "El Hato",
+          "distancia": 3.5
+        }
+      ]
+    }
+  ]
+}
